@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @valentincodes
+- 👀 I’m interested in Go and Freelance
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on cool projects
+- 📫 How to reach me github@valentino.dev
+- ⚡ Fun fact: Bananas are berries, but strawberries aren’t 🤯
